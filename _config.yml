@@ -1,3 +1,10 @@
+title: Study
+email: loststar0504@gmail.com
+description: For study
+github_username: loststar0504
+minimal_mistakes_skin: default
+search: true
+
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
